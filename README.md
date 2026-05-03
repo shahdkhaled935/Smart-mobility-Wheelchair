@@ -1,29 +1,46 @@
 # Smart-mobility-Wheelchair
 
-## 📌 Overview
-This project is a Smart Mobility Wheelchair designed to assist people with mobility challenges.
+# Smart Mobility Wheelchair
 
-The system uses ROS 2 for controlling movement and navigation, and LiDAR-based mapping (SLAM) to understand the environment and avoid obstacles.
+## 🎯 Overview
+This project is a Smart Mobility Wheelchair designed to help people move independently using autonomous navigation.
 
-The goal of the project is to build a semi-autonomous wheelchair that can safely move in unknown environments.
+The system uses ROS 2 and SLAM technology with LiDAR sensors to map the environment and avoid obstacles.
+
+---
 
 ## 🚀 Features
 - Autonomous navigation  
 - Obstacle detection and avoidance  
-- SLAM-based mapping  
-- Real-time movement control  
+- Real-time mapping (SLAM)  
+
+---
 
 ## 🛠️ Technologies Used
 - ROS 2  
 - Python / C++  
 - LiDAR Sensor  
+- SLAM  
+
+---
 
 ## 👩‍💻 My Role
-I worked on navigation logic and integrating SLAM for mapping the environment.
+- Developed navigation logic using ROS 2  
+- Integrated LiDAR sensor for mapping  
+- Worked on SLAM-based environment understanding  
 
-## 🎥 Demo
-[▶ Watch Demo Video](https://github.com/shahdkhaled935/Smart-mobility-Wheelchair/blob/main/GRADproject.mp4)
+---
+
+## 📊 Outcome
+The system is capable of basic autonomous navigation and mapping in controlled environments.
+
+---
 
 ## 📷 Images
-![Wheelchair](wheelchair.jpeg)
+![Wheelchair](wheelchair.jpeg)  
 ![Mapping](mapping.jpeg)
+
+---
+
+## 🎥 Demo
+https://github.com/shahdkhaled935/Smart-mobility-Wheelchair/blob/main/GRADproject.mp4
